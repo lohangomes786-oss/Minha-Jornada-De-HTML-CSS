@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
  <link rel="shortcut icon" href="HTML.ico.ico" type="image/x-icon">
- <h1> <em><strong>APRENDENDO HTML</strong></em> </h1>
+ <h1> <em><strong>APRENDENDO HTML <img src="Designbolts-Shaded-Social-HTML5.256 (1).png" alt=""></strong></em> </h1>
  <h2><em>introdução</em></h2>
  <p><em>SITE FEITO NO FIM DE CADA AULAS COM CADA INFORÇÃO <br>
     TIRADA DO PRIMEIRO MODULO, E TEM AULAS QUE FICARÃO <br> DE FORA POR ALGUNS MOTIVOS, <br>
@@ -51,7 +51,6 @@
       sem estudar o curso mas e isso, vamos br
       la irei a lgo do HTML5 abaixo,</em> 
       <hr>
-    <em>AVISOOOO AS IMAGENS ABAIXO DEVEM ESTAR GIGANTE ENTÃO JA PREPARA O SCROW DO MOUSE KKKKK.</em></p>
 <img src="html-logo-250.png" alt="LOGO DO HTML5">
 <hr>
 <h2><em>sexta aula</em></h2>
